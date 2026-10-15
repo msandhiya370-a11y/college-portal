@@ -1,0 +1,6 @@
+{
+  "name": "AI College Student Assistant Portal",
+  "description": "Comprehensive academic portal for college students featuring attendance tracking, timetables, assignments, exam results, announcements, and real-time AI academic tutoring powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
